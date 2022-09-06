@@ -1,0 +1,21 @@
+.table {
+  margin: 20px;
+  border-collapse: collapse;
+  font-size: 24px;
+}
+.table .th {
+  border: 1px solid black;
+  padding: 10px;
+}
+.table .jami {
+  border: 1px solid black;
+  padding-left: 230px;
+}
+.table .jami2 {
+  border: 1px solid black;
+  padding-left: 80px;
+}
+.table .td {
+  border: 1px solid black;
+  padding: 10px 20px;
+}/*# sourceMappingURL=main.css.map */
